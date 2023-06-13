@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Personal Portfolio<br>👯 I’m looking to collaborate on Frontend Web Projects<br>🌱 I’m currently learning Web Technologies<br>⚡ Fun fact - I like to eat tomatoes ass if they were apples
+🔭 I’m currently working on my Personal Portfolio<br>👯 I’m looking to collaborate on Frontend Web Projects<br>🌱 I’m currently learning Web Technologies<br>
 
 
 ## 🌐 Socials:
