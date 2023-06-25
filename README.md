@@ -45,9 +45,9 @@
 
 <h2 align="center">📞Contact</h2>
 <div align="center">
-    <a href="mailto:rochaesc04@outlook.com"><p>📧 rochaesc04@outlook.com</p></a>
-    <a href="https://www.linkedin.com/in/diego-rocha-escamilla/" alt="My LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-    <a href="https://discordapp.com/users/rochadiego45" alt="My Discord"><img src="https://img.shields.io/badge/RochaDiego45-7289da?logo=discord&logoColor=FFFFFF&style=for-the-badge"></a>
+    <a href="mailto:rochaesc04@outlook.com" target="_blank"><p>📧 rochaesc04@outlook.com</p></a>
+    <a href="https://www.linkedin.com/in/diego-rocha-escamilla/" alt="My LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+    <a href="https://discordapp.com/users/rochadiego45" alt="My Discord" target="_blank"><img src="https://img.shields.io/badge/RochaDiego45-7289da?logo=discord&logoColor=FFFFFF&style=for-the-badge"></a>
     <a href="https://github.com/RochaDiego04" alt="My GitHub"><img src="https://img.shields.io/badge/RochaDiego04-black?logo=github&logoColor=FFFFFF&style=for-the-badge"></a>
 </div>
 
