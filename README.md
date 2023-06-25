@@ -1,5 +1,5 @@
 
-<h1 align="center">👋Hello! I'm $\normalsize\color{rgb(254,99,160)}{\textsf{Diego Rocha}}$</h1>
+<h1 align="center">👋Hi! I'm $\normalsize\color{rgb(254,99,160)}{\textsf{Diego Rocha}}$</h1>
 <p align="center">I'm a student of $\normalsize\color{rgb(254,99,160)}{\textsf{Software Development Engineering}}$. Currently, I'm learning $\normalsize\color{rgb(254,99,160)}{\textsf{Web Technologies}}$ to further improve in my field.</p>
 </p>
 <p align="center">I consider myself a self-taught and disciplined individual, passionate about innovation and creativity.</p>
