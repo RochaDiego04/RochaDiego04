@@ -1,8 +1,7 @@
 
 <h1 align="center">👋Hi! I'm $\normalsize\color{rgb(254,99,160)}{\textsf{Diego Rocha}}$</h1>
-<p align="center">I'm a student of $\normalsize\color{rgb(254,99,160)}{\textsf{Software Development Engineering}}$. Currently, I'm learning $\normalsize\color{rgb(254,99,160)}{\textsf{Web Technologies}}$ to further improve in my field.</p>
-</p>
-<p align="center">I consider myself a self-taught and disciplined individual, passionate about innovation and creativity.</p>
+<p align="center">I'm a student of $\normalsize\color{rgb(254,99,160)}{\textsf{Software Development Engineering}}$. Currently, I'm learning $\normalsize\color{rgb(254,99,160)}{\textsf{Web Technologies}}$ to further improve in my field. </p>
+<p align="center">I consider myself a self-taught and disciplined individual, passionate about innovation and creativity. </p>
 
 <br>
 
@@ -47,7 +46,7 @@
 <div align="center">
     <a href="mailto:rochaesc04@outlook.com" target="_blank"><p>📧 rochaesc04@outlook.com</p></a>
     <a href="https://www.linkedin.com/in/diego-rocha-escamilla/" alt="My LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-    <a href="https://discordapp.com/users/rochadiego45" alt="My Discord" target="_blank"><img src="https://img.shields.io/badge/RochaDiego45-7289da?logo=discord&logoColor=FFFFFF&style=for-the-badge"></a>
+    <a href="https://discordapp.com/users/NewDiscordUserID" alt="My Discord" target="_blank"><img src="https://img.shields.io/badge/ElRoch1n-7289da?logo=discord&logoColor=FFFFFF&style=for-the-badge"></a>
     <a href="https://github.com/RochaDiego04" alt="My GitHub"><img src="https://img.shields.io/badge/RochaDiego04-black?logo=github&logoColor=FFFFFF&style=for-the-badge"></a>
 </div>
 
