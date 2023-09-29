@@ -1,7 +1,7 @@
 
-<h1 align="center">👋Hi! I'm $\normalsize\color{rgb(254,99,160)}{\textsf{Diego Rocha}}$</h1>
-<p align="center">I'm a student of $\normalsize\color{rgb(254,99,160)}{\textsf{Software Development Engineering}}$. Currently, I'm focused on $\normalsize\color{rgb(254,99,160)}{\textsf{Web Technologies}}$ to further improve in my field. </p>
-<p align="center">I consider myself a self-taught and disciplined person, passionate about innovation and creativity. </p>
+<h1 align="center">👋 Hi! I'm <span style="color:rgb(254,99,160)">Diego Rocha</span></h1>
+<p align="center">I'm a student of <span style="color:rgb(254,99,160)">Software Development Engineering</span>. Currently, I'm focused on <span style="color:rgb(254,99,160)">Web Technologies</span> to further improve in my field.</p>
+<p align="center">I consider myself a self-taught and disciplined person, passionate about innovation and creativity.</p>
 
 <br>
 
