@@ -37,12 +37,12 @@
 </ul>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RochaDiego04&theme=radical&hide_border=false"/><br/>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=RochaDiego04&theme=algolia&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <br>
 
-<h2 align="center">📞Contact</h2>
+<h2 align="center">📞Contact me</h2>
 <div align="center">
     <a href="mailto:rochaesc04@outlook.com" target="_blank"><p>📧 rochaesc04@outlook.com</p></a>
     <a href="https://www.linkedin.com/in/diego-rocha-escamilla/" alt="My LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=for-the-badge"></a>
