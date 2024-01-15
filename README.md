@@ -8,16 +8,18 @@
 <h2 align="center">🔧Skills</h2>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <!--HTML-->
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <!--CSS-->
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <!--Bootstrap-->
-    <img src="https://img.shields.io/badge/SASS-CD6799?logo=sass&logoColor=FFFFFF&style=for-the-badge"/> <!--SASS-->
-    <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white"/> <!--Gulp-->
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <!--JavaScript-->
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> <!--PHP-->
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <!--Python-->
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <!--Java-->
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <!--MySql-->
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30px" alt="HTML logo"/> <!--HTML-->
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30px" alt="CSS logo"/> <!--CSS-->
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="30px" alt="Bootstrap logo"/> <!--Bootstrap-->
+    <img src="https://img.shields.io/badge/SASS-CD6799?logo=sass&logoColor=FFFFFF&style=for-the-badge" height="30px" alt="SASS logo"/> <!--SASS-->
+    <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" height="30px" alt="Gulp logo"/> <!--Gulp-->
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30px" alt="JavaScript logo"/> <!--JavaScript-->
+     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30px" alt="TypeScript logo"/> <!--TypeScript-->
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30px" alt="Python logo"/> <!--Python-->
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="30px" alt="Java logo"/> <!--Java-->
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30px" alt="MySQL logo"/> <!--MySql-->
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30px" alt="Git logo"/> <!--Git-->
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30px" alt="GitHub logo"/> <!--GitHub-->
 </div>
 
 <div align="center">
@@ -54,6 +56,6 @@
 
 <div align="center">
     <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=RochaDiego04&icon=8&color=10" />
+      <img src="https://visitcount.itsvg.in/api?id=RochaDiego04&label=Profile%20Views&color=1&icon=8&pretty=false" />
     </a>
 </div>
