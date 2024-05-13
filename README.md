@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" height="30px" alt="Gulp logo"/> <!--Gulp-->
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30px" alt="JavaScript logo"/> <!--JavaScript-->
      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30px" alt="TypeScript logo"/> <!--TypeScript-->
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30px" alt="React logo"/> <!--React-->
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30px" alt="NodeJs logo"/> <!--NodeJs-->
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30px" alt="Python logo"/> <!--Python-->
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="30px" alt="Java logo"/> <!--Java-->
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30px" alt="MySQL logo"/> <!--MySql-->
