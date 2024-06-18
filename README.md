@@ -40,8 +40,9 @@
     <li>Effective Communication</li>
 </ul>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=RochaDiego04&theme=algolia&hide_border=true" alt="GitHub Streak" /></a>
+    <img src="https://github-profile-trophy.vercel.app/?username=RochaDiego04&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <br>
