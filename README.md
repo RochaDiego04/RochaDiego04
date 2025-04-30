@@ -1,7 +1,16 @@
 
 <h1 align="center">👋 Hi! I'm <span style="color:rgb(254,99,160)">Diego Rocha</span></h1>
-<p align="center">I'm a student of <span style="color:rgb(254,99,160)">Software Development Engineering</span>. Currently, I'm focused on <span style="color:rgb(254,99,160)">Web Technologies</span> to further improve in my field.</p>
-<p align="center">I consider myself a self-taught and disciplined person, passionate about innovation and creativity.</p>
+<p align="center">
+  I'm pursuing a <br>
+  <img src="https://img.shields.io/badge/Software_Development_Engineering-pink?style=flat-square&color=fe63a0&labelFontSize=18" /><br>
+  degree. <br>
+    <br>
+    Currently, I'm focused on <br>
+  <img src="https://img.shields.io/badge/Web_Technologies-pink?style=flat-square&color=fe63a0&labelFontSize=18" /> <br>
+  to further improve in my field.
+</p>
+<br>
+<p align="center">🎓 I consider myself a self-taught and disciplined person, passionate about innovation and creativity.</p>
 
 <br>
 
@@ -17,11 +26,13 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30px" alt="JavaScript logo"/> <!--JavaScript-->
      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30px" alt="TypeScript logo"/> <!--TypeScript-->
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30px" alt="React logo"/> <!--React-->
+        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="30px" alt="Next logo"/> <!--NextJs-->
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30px" alt="NodeJs logo"/> <!--NodeJs-->
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30px" alt="Python logo"/> <!--Python-->
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="30px" alt="Java logo"/> <!--Java-->
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" height="30px" alt="Firebase logo"/> <!--Firebase-->
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30px" alt="MySQL logo"/> <!--MySql-->
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="30px" alt="MongoDB logo"/> <!--MongoDB-->
       <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30px" alt="Git logo"/> <!--Git-->
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30px" alt="GitHub logo"/> <!--GitHub-->
 </div>
