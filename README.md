@@ -1,12 +1,12 @@
 
 <h1 align="center">👋 Hi! I'm <span style="color:rgb(254,99,160)">Diego Rocha</span></h1>
 <p align="center">
-  I'm pursuing a <br>
-  <img src="https://img.shields.io/badge/Software_Development_Engineering-pink?style=flat-square&color=fe63a0&labelFontSize=18" /><br>
-  degree. <br>
+  I'm a <br>
+  <img src="https://img.shields.io/badge/Software_Development_Engineer-pink?style=flat-square&color=fe63a0&labelFontSize=18" /><br>
+    <br>
     <br>
     Currently, I'm focused on <br>
-  <img src="https://img.shields.io/badge/Web_Technologies-pink?style=flat-square&color=fe63a0&labelFontSize=18" /> <br>
+  <img src="https://img.shields.io/badge/Web_Technologies and AI-pink?style=flat-square&color=fe63a0&labelFontSize=18" /> <br>
   to further improve in my field.
 </p>
 <br>
