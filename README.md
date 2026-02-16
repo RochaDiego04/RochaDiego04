@@ -10,7 +10,7 @@
   to further improve in my field.
 </p>
 <br>
-<p align="center">🎓 I consider myself a self-taught and disciplined person, passionate about innovation and creativity.</p>
+<p align="center">🎓 I'm a self-taught and disciplined person, passionate about innovation and creativity.</p>
 
 <br>
 
