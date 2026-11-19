@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" fill="none" role="presentation">
+  <style>
+    @keyframes left  { from { transform: translateX(0); }      to { transform: translateX(-600px); } }
+    @keyframes right { from { transform: translateX(-600px); } to { transform: translateX(0); } }
+    .w1 { animation: left 16s linear infinite; }
+    .w2 { animation: right 12s linear infinite; }
+    .w3 { animation: left 9s linear infinite; }
+    @media (prefers-reduced-motion: reduce) { .w1, .w2, .w3 { animation: none; } }
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E3A82B"/>
+      <stop offset="1" stop-color="#388BFD"/>
+    </linearGradient>
+    <linearGradient id="gr" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#388BFD"/>
+      <stop offset="1" stop-color="#E3A82B"/>
+    </linearGradient>
+    <!-- Soft fade on the left and right edges -->
+    <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".18" stop-color="#fff"/>
+      <stop offset=".82" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <mask id="edges"><rect width="1200" height="120" fill="url(#edge)"/></mask>
+    <!-- Each wave repeats every 600px, so a 600px shift loops seamlessly -->
+    <mask id="m1"><path class="w1" fill="#fff" d="M0 52C100 26 200 26 300 52S500 78 600 52S800 26 900 52S1100 78 1200 52S1400 26 1500 52S1700 78 1800 52V120H0Z"/></mask>
+    <mask id="m2"><path class="w2" fill="#fff" d="M0 70C100 50 200 50 300 70S500 90 600 70S800 50 900 70S1100 90 1200 70S1400 50 1500 70S1700 90 1800 70V120H0Z"/></mask>
+    <mask id="m3"><path class="w3" fill="#fff" d="M0 88C100 74 200 74 300 88S500 102 600 88S800 74 900 88S1100 102 1200 88S1400 74 1500 88S1700 102 1800 88V120H0Z"/></mask>
+  </defs>
+  <g mask="url(#edges)">
+    <rect width="1200" height="120" fill="url(#g)"  fill-opacity=".14" mask="url(#m1)"/>
+    <rect width="1200" height="120" fill="url(#gr)" fill-opacity=".16" mask="url(#m2)"/>
+    <rect width="1200" height="120" fill="url(#g)"  fill-opacity=".26" mask="url(#m3)"/>
+  </g>
+</svg>
